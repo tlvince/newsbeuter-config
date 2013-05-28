@@ -9,6 +9,7 @@ show-read-articles no
 save-path ~/downloads
 keep-articles-days 14
 text-width 65   # 35em, 12-15 words a line
+reload-threads 4
 
 # Binding {{{1
 bind-key k up
