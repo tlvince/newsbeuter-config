@@ -1,0 +1,5 @@
+# Newsbeuter config
+
+## Author
+
+© 2013 Tom Vincent <http://tlvince.com/contact>

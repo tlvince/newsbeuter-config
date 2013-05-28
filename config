@@ -1,0 +1,25 @@
+# Newsbeuter config file {{{1
+# Copyright 2011 Tom Vincent <http://www.tlvince.com/contact/>
+# vim: set fdm=marker:
+
+# General {{{1
+browser open
+show-read-feeds no
+show-read-articles no
+save-path ~/downloads
+keep-articles-days 14
+text-width 65   # 35em, 12-15 words a line
+
+# Binding {{{1
+bind-key k up
+bind-key j down
+
+# Colour {{{1
+
+# Solarized
+# From: https://github.com/akrennmair/newsbeuter/blob/master/contrib/colorschemes/solarized-dark
+color listnormal color244 color234
+color listfocus  color166 color235
+color info       color136 color235
+color background color244 color234
+color article    color244 color234
